@@ -10,7 +10,7 @@ I followed the videos using the C programming language. Feel free to add the C++
 
 # Data Structures covered
 - [x] Linked Lists
-- [ ] Doubly Linked Lists
+- [x] Doubly Linked Lists
 - [ ] Stack
 - [ ] Queue
 - [ ] Binary Tree
